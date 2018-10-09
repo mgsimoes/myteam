@@ -1,0 +1,44 @@
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#pred {
+    color: red;
+    background-color: black;
+}
+
+#pblack {
+    color: black;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px white;
+}
+
+h1.display-3{
+    padding: 100px;
+}
+
+.jumbotron {
+    background-image: url(united.jpg);
+    background-attachment: fixed;
+    background size: cover;
+}
+
+.logo{
+    height: 150px;
+}
+
+table.tableizer-table {
+    font-size: 12px;
+    border: 1px solid #CCC; 
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.tableizer-table td {
+    padding: 4px;
+    margin: 3px;
+    border: 1px solid #CCC;
+}
+.tableizer-table th {
+    background-color: #8b0000; 
+    color: #FFF;
+    font-weight: bold;
+}
